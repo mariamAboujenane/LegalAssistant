@@ -35,6 +35,15 @@ To run the application locally:
 2. Set up the necessary environment variables.
 3. Run the Flask application: `python app.py`
 
+## Demo 
+![image](https://github.com/mariamAboujenane/LawAssistant/assets/106840796/b4af6620-1f82-46a7-8fe0-efa2cf79288d)
+
+![image](https://github.com/mariamAboujenane/LawAssistant/assets/106840796/c39ca939-20f9-47d1-9bcc-efaa131037be)
+
+![image](https://github.com/mariamAboujenane/LawAssistant/assets/106840796/6cc8046a-7209-474f-bfd5-354c632c9621)
+
+![image](https://github.com/mariamAboujenane/LawAssistant/assets/106840796/598a3d98-77c2-4cef-8be9-588e61857f64)
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
