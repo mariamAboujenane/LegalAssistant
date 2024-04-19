@@ -1,6 +1,6 @@
-# Moroccan Law Adviser
+# Legal Assistant
 
-Moroccan Law Adviser is an innovative application that leverages RAG (Retrieval-Augmented Generation) technology to deliver personalized legal advice and guidance based on Moroccan law. 
+Legal Assistant is an innovative application that leverages RAG (Retrieval-Augmented Generation) technology to deliver personalized legal advice and guidance based on Moroccan law. 
 
 ## Overview
 
