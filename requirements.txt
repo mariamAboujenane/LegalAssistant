@@ -1,0 +1,5 @@
+llama-index-embeddings-huggingface
+llama-index
+flask
+ollama
+llama-index-llms-ollama
