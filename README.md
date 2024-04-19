@@ -4,7 +4,7 @@ Legal Assistant is an innovative application that leverages RAG (Retrieval-Augme
 
 ## Overview
 
-Accessing legal advice and guidance can be complex, time-consuming, and costly, especially in Morocco. Individuals and businesses often struggle to navigate the intricacies of Moroccan legal regulations and procedures without proper guidance. Moroccan Law Adviser aims to address these challenges by providing a user-friendly interface for submitting legal queries and receiving timely responses backed by comprehensive legal research and analysis.
+Accessing legal advice and guidance can be complex, time-consuming, and costly, especially in Morocco. Individuals and businesses often struggle to navigate the intricacies of Moroccan legal regulations and procedures without proper guidance. Legal Assistant aims to address these challenges by providing a user-friendly interface for submitting legal queries and receiving timely responses backed by comprehensive legal research and analysis.
 
 ## Features
 
